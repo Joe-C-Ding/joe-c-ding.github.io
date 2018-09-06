@@ -4,6 +4,7 @@
 1. [Bookmarks system for vim](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/1)
 1. [如何从交换文件中恢复](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/9)
 1. [Vim 中与缩进有关的设置](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/10)
+1. [Vim 的自动保存与备份](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/11)
 
 ### TeX
 [Tex学习笔记](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/3)
