@@ -1,7 +1,8 @@
 ## Welcome to pangding's blog
 
 ### Vim
-[Bookmarks system for vim](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/1)
+1. [Bookmarks system for vim](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/1)
+1. [如何从交换文件中恢复](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/9)
 
 ### TeX
 [Tex学习笔记](https://github.com/Joe-C-Ding/joe-c-ding.github.io/issues/3)
